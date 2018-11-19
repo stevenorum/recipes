@@ -1,11 +1,10 @@
 ## Based on pretzel_pizza_crust
 
 ### Ingredients
-* 1 (.25 ounce) package active dry yeast
+* 3 tsp active dry yeast
 * 1 teaspoon white sugar
 * 1 cup warm water (110 degrees F/45 degrees C)
 * 2 1/2 cups bread flour
-* 2 tablespoons olive oil
 * 1 teaspoon salt
 
 ### Directions
