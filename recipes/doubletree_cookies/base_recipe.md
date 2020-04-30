@@ -13,7 +13,7 @@ Based on [this recipe released by Hilton](https://newsroom.hilton.com/static-dou
 * 1/4 teaspoon
 * 1 teaspoon (if you don't want to measure 5 quarter-teaspoons of vanilla extract)
 * Mixing bowl
-* Mixing spoon (the official recipe calls for a stand miker, but if you're a peasant like me and don't have one, a sturdy spoon works just as well)
+* Mixing spoon (the official recipe calls for a stand mixer, but if you're a peasant like me and don't have one, a sturdy spoon works just as well)
 * Scooping spoon (for balling the cookies for baking)
 
 ## Ingredients (in order of use)
