@@ -15,7 +15,7 @@ Based on [AllRecipes Good Old Fashioned Pancakes](https://www.allrecipes.com/rec
 
 ### Instructions
 
-1. In a large bowl, sift together the flour, baking powder, salt and sugar. 
+1. In a large bowl, sift together the flour, gluten, protein powder, baking powder, salt and sugar. 
 2. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.
 3. Heat a lightly oiled griddle or frying pan over medium high heat. 
 4. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.
