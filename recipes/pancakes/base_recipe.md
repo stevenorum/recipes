@@ -5,7 +5,7 @@ Based on [AllRecipes Good Old Fashioned Pancakes](https://www.allrecipes.com/rec
 ### Ingredients
 * 1 cup all-purpose flour
 * 1/2 cup gluten
-* 1/2 cup unflavored (or flavored, if you live life on the wild side) protein powder.
+* 1 or 2 scoops unflavored (or flavored, if you live life on the wild side) protein powder.
 * 3 1/2 teaspoons baking powder
 * 1 teaspoon salt
 * 1 tablespoon white sugar  
