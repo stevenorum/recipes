@@ -8,7 +8,7 @@
 * 2 eggs size large
 * 1 1/2 cups flour all purpose
 * 1/2 teaspoon salt
-* 1/1 teaspoon baking soda
+* 1/2 teaspoon baking soda
 * 2 cups pecan halves
 
 ## Instructions
