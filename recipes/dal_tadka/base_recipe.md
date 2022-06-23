@@ -24,7 +24,7 @@ All the dried-and-in-a-jar-from-the-store kind, not the fancier and tastier fres
 * 1/4 tsp coriander
 * 1/4 tsp turmeric
 * 1/4 tsp smoked paprika
-* 1/8 tsp Kashmiri shili powder
+* 1/8 tsp Kashmiri chili powder
 * A few twists of finely-ground black pepper
 
 ## Instructions
