@@ -6,12 +6,12 @@ This is a slight modification on that recipe, based on other roll recipes I've s
 
 * 2 tablespoons active dry yeast
 * 3 ounces sugar
-* 1 cup warm milk (100° to 110°)
+* 1 cup warm milk (100° to 110°) (I actually used 1/2 cup whole milk and 1/2 cup half&half because I only had half a cup of milk left)
 * 1/2 cup butter, softened
 * 1 ounce butter, melted
-* 2 egg yolks, room temperature
+* 1 egg, room temperature
 * 1 teaspoon kosher salt
-* 15 ounces all-purpose flour, plus more for kneading and the like
+* 16-17 ounces (weight, not volume) all-purpose flour, plus more for kneading and the like
 
 ## Instructions
 
